@@ -1,0 +1,27 @@
+﻿@page
+@model Gutmeal.Pages.ChartsModel
+@{
+	ViewData["Title"] = "Charts";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GutMeal - Charts</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <nav>
+        <a href="/Index">Home</a>
+        <a href="/Charts">Charts</a>
+        <a href="/About">About Us</a>
+    </nav>
+    <h2>Interactive Charts</h2>
+    <canvas id="barChart"></canvas>
+    <canvas id="lineChart"></canvas>
+    <canvas id="pieChart"></canvas>
+    <script src="~/js/charts.js"></script>
+</body>
+</html>
+

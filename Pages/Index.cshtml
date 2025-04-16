@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <header>
+        <h1>GutMeal</h1>
+        <nav>
+            <a href="/Index">Home</a>
+            <a href="/Charts">Charts</a>
+            <a href="/About">About Us</a>
+        </nav>
+    </header>
+    <section>
+        <h2>Welcome to GutMeal</h2>
+        <p>Your health-focused meal tracking assistant.</p>
+        <h3>CRUD Operations</h3>
+        <button onclick="location.href='/Create'">Create</button>
+        <button onclick="location.href='/Read'">Read</button>
+        <button onclick="location.href='/Update'">Update</button>
+        <button onclick="location.href='/Delete'">Delete</button>
+    </section>
+</body>
+</html>

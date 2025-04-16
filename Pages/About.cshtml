@@ -1,0 +1,27 @@
+﻿@page
+@model Gutmeal.Pages.AboutModel
+@{
+	ViewData["Title"] = "About";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <nav>
+        <a href="/Index">Home</a>
+        <a href="/Charts">Charts</a>
+        <a href="/About">About Us</a>
+    </nav>
+    <h2>Team Info</h2>
+    <ul>
+        <li>Sunil Chaudhary - Developer & Designer</li>
+    </ul>
+    <h3>Logical Data Model</h3>
+    <img src="~/img/data_model.png" alt="Data Model">
+    <p>Users can have multiple Meal Entries. Each entry logs nutrition values and health questionnaire responses.</p>
+    <a href="https://github.com/your-repo/gutmeal">GitHub Repo</a>
+</body>
+</html>

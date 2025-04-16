@@ -1,0 +1,43 @@
+﻿@page
+@model Gutmeal.Pages.CreateModel
+@{
+	ViewData["Title"] = "Create";
+}
+
+<h2>User Detail Form</h2>
+<form>
+	<label>Age:</label>
+	<input type="number" /><br />
+
+	<label>Gender:</label>
+	<select><option>Male</option><option>Female</option></select><br />
+
+	<label>Digestive Issues Frequency:</label>
+	<select><option>Never</option><option>Sometimes</option><option>Often</option></select><br />
+
+	<label>Food Allergies (0/1):</label>
+	<select><option>0</option><option>1</option></select><br />
+
+	<label>Health Conditions (0/1):</label>
+	<select><option>0</option><option>1</option></select><br />
+
+	<label>Diet Type:</label>
+	<select><option>Vegetarian</option><option>Gluten-Free</option><option>Omnivore</option><option>Vegan</option></select><br />
+
+	<label>Processed Food Consumption:</label>
+	<select><option>Rarely</option><option>Sometimes</option><option>Often</option></select><br />
+
+	<label>Fiber Food Intake:</label>
+	<select><option>Rarely</option><option>Sometimes</option><option>Often</option></select><br />
+
+	<label>Exercise Frequency:</label>
+	<select><option>Sedentary</option><option>Occasional</option><option>Regular</option></select><br />
+
+	<label>Stress Level (1-10):</label>
+	<input type="range" min="1" max="10" /><br />
+
+	<label>Sleep Quality (1-10):</label>
+	<input type="range" min="1" max="10" /><br />
+
+	<button type="submit">Submit</button>
+</form>
