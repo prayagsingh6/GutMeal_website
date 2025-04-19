@@ -1,69 +1,103 @@
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\appsettings.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\Gutmeal.staticwebassets.runtime.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\Gutmeal.staticwebassets.endpoints.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\Gutmeal.exe
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\Gutmeal.deps.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\Gutmeal.runtimeconfig.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\Gutmeal.dll
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\bin\Debug\net8.0\Gutmeal.pdb
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.AssemblyInfoInputs.cache
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.AssemblyInfo.cs
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.csproj.CoreCompileInputs.cache
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.RazorAssemblyInfo.cache
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.RazorAssemblyInfo.cs
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\scopedcss\bundle\Gutmeal.styles.css
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\scopedcss\projectbundle\Gutmeal.bundle.scp.css
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets\msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets\msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets\msbuild.build.Gutmeal.props
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gutmeal.props
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gutmeal.props
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.dll
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\refint\Gutmeal.dll
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.pdb
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\Gutmeal.genruntimeconfig.cache
-C:\Users\Prayag\Desktop\projects\GutMeal_web\Gutmeal\obj\Debug\net8.0\ref\Gutmeal.dll
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\appsettings.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\Gutmeal.staticwebassets.runtime.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\Gutmeal.staticwebassets.endpoints.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\Gutmeal.exe
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\Gutmeal.deps.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\Gutmeal.runtimeconfig.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\Gutmeal.dll
-C:\Users\test\Desktop\Classes\App Development\Web Look\bin\Debug\net8.0\Gutmeal.pdb
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.AssemblyInfoInputs.cache
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.AssemblyInfo.cs
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.csproj.CoreCompileInputs.cache
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.RazorAssemblyInfo.cache
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.RazorAssemblyInfo.cs
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.sourcelink.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\scopedcss\bundle\Gutmeal.styles.css
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\scopedcss\projectbundle\Gutmeal.bundle.scp.css
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets\msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets\msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets\msbuild.build.Gutmeal.props
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gutmeal.props
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gutmeal.props
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.dll
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\refint\Gutmeal.dll
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.pdb
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\Gutmeal.genruntimeconfig.cache
-C:\Users\test\Desktop\Classes\App Development\Web Look\obj\Debug\net8.0\ref\Gutmeal.dll
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/appsettings.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/Gutmeal.staticwebassets.runtime.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/Gutmeal.staticwebassets.endpoints.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/Gutmeal.exe
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/Gutmeal.deps.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/Gutmeal.runtimeconfig.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/Gutmeal.dll
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/bin/Debug/net8.0/Gutmeal.pdb
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.AssemblyInfoInputs.cache
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.AssemblyInfo.cs
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.csproj.CoreCompileInputs.cache
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.RazorAssemblyInfo.cache
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.RazorAssemblyInfo.cs
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/scopedcss/bundle/Gutmeal.styles.css
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/scopedcss/projectbundle/Gutmeal.bundle.scp.css
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets/msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets/msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets/msbuild.build.Gutmeal.props
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Gutmeal.props
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Gutmeal.props
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.dll
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/refint/Gutmeal.dll
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.pdb
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/Gutmeal.genruntimeconfig.cache
+C:/Users/Prayag/Desktop/projects/GutMeal_web/Gutmeal/obj/Debug/net8.0/ref/Gutmeal.dll
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/appsettings.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/Gutmeal.staticwebassets.runtime.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/Gutmeal.staticwebassets.endpoints.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/Gutmeal.exe
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/Gutmeal.deps.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/Gutmeal.runtimeconfig.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/Gutmeal.dll
+C:/Users/test/Desktop/Classes/App Development/Web Look/bin/Debug/net8.0/Gutmeal.pdb
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.AssemblyInfoInputs.cache
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.AssemblyInfo.cs
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.csproj.CoreCompileInputs.cache
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.RazorAssemblyInfo.cache
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.RazorAssemblyInfo.cs
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.sourcelink.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/scopedcss/bundle/Gutmeal.styles.css
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/scopedcss/projectbundle/Gutmeal.bundle.scp.css
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets/msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets/msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets/msbuild.build.Gutmeal.props
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Gutmeal.props
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Gutmeal.props
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.dll
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/refint/Gutmeal.dll
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.pdb
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/Gutmeal.genruntimeconfig.cache
+C:/Users/test/Desktop/Classes/App Development/Web Look/obj/Debug/net8.0/ref/Gutmeal.dll
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/appsettings.Development.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/appsettings.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/Gutmeal.staticwebassets.runtime.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/Gutmeal.staticwebassets.endpoints.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/Gutmeal
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/Gutmeal.deps.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/Gutmeal.runtimeconfig.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/Gutmeal.dll
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/bin/Debug/net8.0/Gutmeal.pdb
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.AssemblyInfoInputs.cache
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.AssemblyInfo.cs
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.csproj.CoreCompileInputs.cache
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.MvcApplicationPartsAssemblyInfo.cache
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.RazorAssemblyInfo.cache
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.RazorAssemblyInfo.cs
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.sourcelink.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/scopedcss/bundle/Gutmeal.styles.css
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/scopedcss/projectbundle/Gutmeal.bundle.scp.css
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets.build.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets.development.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets/msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets/msbuild.Gutmeal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets/msbuild.build.Gutmeal.props
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Gutmeal.props
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Gutmeal.props
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.dll
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/refint/Gutmeal.dll
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.pdb
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/Gutmeal.genruntimeconfig.cache
+/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/Debug/net8.0/ref/Gutmeal.dll

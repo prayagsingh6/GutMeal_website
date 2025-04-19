@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\Desktop\\Classes\\App Development\\Web Look\\Gutmeal.csproj": {}
+    "/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Gutmeal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\Desktop\\Classes\\App Development\\Web Look\\Gutmeal.csproj": {
+    "/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Gutmeal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\Desktop\\Classes\\App Development\\Web Look\\Gutmeal.csproj",
+        "projectUniqueName": "/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Gutmeal.csproj",
         "projectName": "Gutmeal",
-        "projectPath": "C:\\Users\\test\\Desktop\\Classes\\App Development\\Web Look\\Gutmeal.csproj",
-        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\Desktop\\Classes\\App Development\\Web Look\\obj\\",
+        "projectPath": "/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Gutmeal.csproj",
+        "packagesPath": "/Users/dushyanthasrani/.nuget/packages/",
+        "outputPath": "/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dushyanthasrani/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -68,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
