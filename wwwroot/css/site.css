@@ -20,3 +20,23 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/* Add these styles at the top of the file */
+body {
+    background-image: url('/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(240, 242, 245, 0.4);
+    background-blend-mode: overlay;
+    min-height: 100vh;
+}
+
+/* Ensure content containers have transparency */
+.content-container {
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 2rem auto;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
