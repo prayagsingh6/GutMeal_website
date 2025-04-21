@@ -63,8 +63,18 @@ button:hover {
 }
 
 .info-section {
-    background-color: rgba(255, 255, 255, 0.9); /* Light background for readability */
+    background-color: rgba(255, 255, 255, 0.9);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+@media (max-width: 576px) {
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-control {
+            font-size: 16px;
+        }
+}

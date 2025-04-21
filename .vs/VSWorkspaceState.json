@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Pages",
+    "\\wwwroot",
+    "\\wwwroot\\images"
   ],
+  "SelectedNode": "\\Pages\\About.cshtml",
   "PreviewInSolutionExplorer": false
 }

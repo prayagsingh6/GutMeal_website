@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gutmeal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0f53639a0f3bd69a58999dd254833d4846fad93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+341ac3417f2b158241611630ae04bd21b2d0b194")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gutmeal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gutmeal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
