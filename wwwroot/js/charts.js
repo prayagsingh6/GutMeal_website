@@ -1,4 +1,5 @@
-﻿const barCtx = document.getElementById('barChart').getContext('2d');
+﻿// Bar Chart
+const barCtx = document.getElementById('barChart').getContext('2d');
 new Chart(barCtx, {
     type: 'bar',
     data: {
@@ -35,6 +36,20 @@ new Chart(lineCtx, {
             data: [5.5, 6.3, 4.9, 3.2, 7.1],
             borderColor: '#FF6384',
             fill: false
+        }]
+    }
+});
+
+// Doughnut Chart (Nutrient Distribution)
+const doughnutCtx = document.getElementById('doughnutChart').getContext('2d');
+new Chart(doughnutCtx, {
+    type: 'doughnut',
+    data: {
+        labels: ['Protein', 'Carbs', 'Fat', 'Fiber'],
+        datasets: [{
+            label: 'Nutrient Distribution',
+            data: [30, 40, 15, 15],
+            backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#AA66CC']
         }]
     }
 });

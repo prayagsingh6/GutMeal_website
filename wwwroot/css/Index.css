@@ -2,7 +2,7 @@
 
 
 .content-container {
-    background-color: rgba(255, 255, 255, 0.85); /* Semi-transparent white */
+    background-color: rgba(255, 255, 255, 0.85); 
     border-radius: 12px;
     max-width: 900px;
     margin: 80px auto;
@@ -11,18 +11,18 @@
 }
 
 .action-buttons {
-    margin: 50px auto 0; /* Added more top margin (50px) to push buttons down */
+    margin: 50px auto 0; 
     display: flex;
     justify-content: center;
-    flex-wrap: nowrap; /* Force single line */
+    flex-wrap: nowrap; 
     gap: 15px;
-    max-width: 800px; /* Match section width */
-    overflow-x: auto; /* Allow horizontal scrolling if needed */
-    padding-bottom: 10px; /* Space for scrollbar */
+    max-width: 800px; 
+    overflow-x: auto; 
+    padding-bottom: 10px; 
 }
 
 .welcome-title {
-    font-size: 42px; /* Larger size */
+    font-size: 42px; 
     font-weight: 700;
     color: #2c3e50;
     margin-bottom: 10px;
@@ -84,7 +84,7 @@ button {
     cursor: pointer;
     transition: all 0.3s ease;
     box-shadow: 0 4px 8px rgba(26, 188, 156, 0.3);
-    /* Remove margin to use flexbox gap instead */
+   
     margin: 0;
 }
 

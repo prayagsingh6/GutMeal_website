@@ -57,3 +57,11 @@ button {
 button:hover {
     background-color: #e53935; 
 }
+
+
+.info-section {
+    background-color: rgba(255, 255, 255, 0.9); 
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);

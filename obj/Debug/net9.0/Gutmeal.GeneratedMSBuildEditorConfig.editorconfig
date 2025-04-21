@@ -9,65 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Gutmeal
 build_property.RootNamespace = Gutmeal
-build_property.ProjectDir = /Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/
+build_property.ProjectDir = C:\Users\DELL\Desktop\USF\App_Dev\GutMeal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Desktop\USF\App_Dev\GutMeal
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Charts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzLmNzaHRtbA==
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlLmNzaHRtbA==
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsZXRlLmNzaHRtbA==
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/ExploreMealPlans.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwbG9yZU1lYWxQbGFucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Read.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVhZC5jc2h0bWw=
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVhZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Update.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBkYXRlLmNzaHRtbA==
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dushyanthasrani/Desktop/Courses/AppDev/GutMeal_website/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-rt1nblch2a
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/USF/App_Dev/GutMeal/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-27ngdn07ap

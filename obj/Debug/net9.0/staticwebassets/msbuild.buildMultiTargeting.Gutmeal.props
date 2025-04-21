@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/Gutmeal.props" />
+  <Import Project="..\build\Gutmeal.props" />
 </Project>
